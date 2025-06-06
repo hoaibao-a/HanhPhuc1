@@ -1,0 +1,16 @@
+{
+  "logo": {
+    "image_url": "images/logo-hanhphuc-small.png",
+    "alt_text": "Logo Hạnh Phúc Wedding nhỏ",
+    "link": "#hero"
+  },
+  "navigation": [
+    { "label": "Trang chủ", "link": "#hero" },
+    { "label": "Dịch vụ", "link": "#services" },
+    { "label": "Bảng giá", "link": "#pricing" },
+    { "label": "Thư viện ảnh", "link": "#gallery" },
+    { "label": "Liên hệ", "link": "#contact" }
+  ],
+  "copyright_text": "© 2025 Hạnh Phúc Wedding. Bảo lưu mọi quyền. Thiết kế với toàn bộ trái tim 🥰."
+}
+

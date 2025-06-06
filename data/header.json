@@ -1,0 +1,15 @@
+{
+  "logo": {
+    "image_url": "images/logo-hanhphuc.png",
+    "alt_text": "Logo Hạnh Phúc Wedding",
+    "link": "#hero"
+  },
+  "navigation": [
+    { "label": "Trang chủ", "link": "#hero" },
+    { "label": "Dịch vụ", "link": "#services" },
+    { "label": "Bảng giá", "link": "#pricing" },
+    { "label": "Thư viện ảnh", "link": "#gallery" },
+    { "label": "Liên hệ", "link": "#contact" }
+  ]
+}
+

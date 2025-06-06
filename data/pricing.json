@@ -1,0 +1,37 @@
+{
+  "title": "Bảng Giá Tham Khảo",
+  "packages": [
+    {
+      "name": "Gói Cơ Bản",
+      "price": "Từ 5.000.000 VNĐ",
+      "features": [
+        "Trang trí bàn thờ gia tiên cơ bản",
+        "Bộ mâm quả tiêu chuẩn",
+        "Cổng hoa lụa đơn giản"
+      ]
+    },
+    {
+      "name": "Gói Tiêu Chuẩn",
+      "price": "Từ 10.000.000 VNĐ",
+      "features": [
+        "Trang trí gia tiên đầy đủ (bàn thờ, phông, bàn hai họ)",
+        "Bộ mâm quả cao cấp",
+        "Cổng hoa tươi/lụa thiết kế",
+        "Trang trí bàn gallery"
+      ]
+    },
+    {
+      "name": "Gói Cao Cấp",
+      "price": "Từ 15.000.000 VNĐ",
+      "features": [
+        "Trang trí gia tiên theo concept riêng",
+        "Bộ mâm quả đặc biệt",
+        "Cổng hoa tươi nhập khẩu",
+        "Trang trí lối đi, sân khấu (nếu có rạp)",
+        "Hỗ trợ trang trí rạp cưới cơ bản"
+      ]
+    }
+  ],
+  "note": "Đây là bảng giá tham khảo. Giá thực tế sẽ được báo chi tiết sau khi Hạnh Phúc khảo sát địa điểm và trao đổi cụ thể về yêu cầu của quý khách."
+}
+
