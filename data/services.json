@@ -5,23 +5,22 @@
       "id": "gia-tien",
       "name": "Trang trí Gia Tiên",
       "description": "Trang hoàng không gian lễ gia tiên trang trọng, ấm cúng với bàn thờ, tráp hỏi, mâm quả, lư đồng, phông màn theo yêu cầu.",
-      "image_url": "images/service-gia-tien.jpg",
+      "image_url": "images/background/background.jpg",
       "alt_text": "Trang trí lễ gia tiên"
     },
     {
       "id": "rap-cuoi",
       "name": "Rạp Cưới - Rạp Hỏi",
       "description": "Cung cấp nhà bạt, bàn ghế, phông màn, cổng hoa, âm thanh, ánh sáng... tạo không gian tiệc cưới hoàn hảo.",
-      "image_url": "images/service-rap-cuoi.jpg",
+      "image_url": "images/background/background.jpg",
       "alt_text": "Trang trí rạp cưới"
     },
     {
       "id": "combo",
       "name": "Gói Combo Trọn Gói",
       "description": "Tư vấn, lên ý tưởng, thiết kế và thi công trọn gói trang trí gia tiên và rạp cưới, tiết kiệm thời gian và chi phí.",
-      "image_url": "images/service-combo.jpg",
+      "image_url": "images/background/background.jpg",
       "alt_text": "Gói trang trí cưới trọn gói"
     }
   ]
 }
-

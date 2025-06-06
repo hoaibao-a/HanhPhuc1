@@ -8,13 +8,54 @@
     { "filter": "combo", "label": "Combo" }
   ],
   "images": [
-    { "category": "gia-tien", "thumb_url": "images/gallery/gia-tien-1-thumb.jpg", "full_url": "images/gallery/gia-tien-1-full.jpg", "alt": "Trang trí bàn thờ gia tiên 1", "caption": "Bàn thờ gia tiên tông đỏ vàng truyền thống" },
-    { "category": "gia-tien", "thumb_url": "images/gallery/gia-tien-2-thumb.jpg", "full_url": "images/gallery/gia-tien-2-full.jpg", "alt": "Trang trí bàn thờ gia tiên 2", "caption": "Chi tiết mâm quả lễ hỏi" },
-    { "category": "rap-cuoi", "thumb_url": "images/gallery/rap-cuoi-1-thumb.jpg", "full_url": "images/gallery/rap-cuoi-1-full.jpg", "alt": "Trang trí rạp cưới 1", "caption": "Rạp cưới ngoài trời tông trắng xanh" },
-    { "category": "rap-cuoi", "thumb_url": "images/gallery/rap-cuoi-2-thumb.jpg", "full_url": "images/gallery/rap-cuoi-2-full.jpg", "alt": "Trang trí rạp cưới 2", "caption": "Cổng hoa rạp cưới sang trọng" },
-    { "category": "combo", "thumb_url": "images/gallery/combo-1-thumb.jpg", "full_url": "images/gallery/combo-1-full.jpg", "alt": "Trang trí combo 1", "caption": "Trang trí trọn gói gia tiên và rạp" },
-    { "category": "gia-tien", "thumb_url": "images/gallery/gia-tien-3-thumb.jpg", "full_url": "images/gallery/gia-tien-3-full.jpg", "alt": "Trang trí bàn thờ gia tiên 3", "caption": "Phông cưới và bàn hai họ" },
-    { "category": "rap-cuoi", "thumb_url": "images/gallery/rap-cuoi-3-thumb.jpg", "full_url": "images/gallery/rap-cuoi-3-full.jpg", "alt": "Trang trí rạp cưới 3", "caption": "Không gian tiệc cưới ấm cúng" }
+    {
+      "category": "gia-tien",
+      "thumb_url": "images/background/background.jpg",
+      "full_url": "images/background/background.jpg",
+      "alt": "Trang trí bàn thờ gia tiên 1",
+      "caption": "Bàn thờ gia tiên tông đỏ vàng truyền thống"
+    },
+    {
+      "category": "gia-tien",
+      "thumb_url": "images/background/background.jpg",
+      "full_url": "images/background/background.jpg",
+      "alt": "Trang trí bàn thờ gia tiên 2",
+      "caption": "Chi tiết mâm quả lễ hỏi"
+    },
+    {
+      "category": "rap-cuoi",
+      "thumb_url": "images/background/background.jpg",
+      "full_url": "images/background/background.jpg",
+      "alt": "Trang trí rạp cưới 1",
+      "caption": "Rạp cưới ngoài trời tông trắng xanh"
+    },
+    {
+      "category": "rap-cuoi",
+      "thumb_url": "images/background/background.jpg",
+      "full_url": "images/background/background.jpg",
+      "alt": "Trang trí rạp cưới 2",
+      "caption": "Cổng hoa rạp cưới sang trọng"
+    },
+    {
+      "category": "combo",
+      "thumb_url": "images/background/background.jpg",
+      "full_url": "images/background/background.jpg",
+      "alt": "Trang trí combo 1",
+      "caption": "Trang trí trọn gói gia tiên và rạp"
+    },
+    {
+      "category": "gia-tien",
+      "thumb_url": "images/background/background.jpg",
+      "full_url": "images/background/background.jpg",
+      "alt": "Trang trí bàn thờ gia tiên 3",
+      "caption": "Phông cưới và bàn hai họ"
+    },
+    {
+      "category": "rap-cuoi",
+      "thumb_url": "images/background/background.jpg",
+      "full_url": "images/background/background.jpg",
+      "alt": "Trang trí rạp cưới 3",
+      "caption": "Không gian tiệc cưới ấm cúng"
+    }
   ]
 }
-
